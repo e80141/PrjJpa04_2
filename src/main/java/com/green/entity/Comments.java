@@ -73,6 +73,8 @@ public class Comments {
 		if(dto.getBody() != null)       // 입력받은 수정할 댓글 내용이 존재하면
 			this.body     = dto.getBody();		
 	}
+	
+	
 }
 
 
